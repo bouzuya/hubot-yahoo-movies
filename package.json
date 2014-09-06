@@ -1,6 +1,6 @@
 {
   "name": "hubot-yahoo-movies",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hubot script that search keywords from Yahoo movies",
   "main": "index.coffee",
   "scripts": {
