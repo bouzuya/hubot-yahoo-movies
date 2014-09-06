@@ -2,6 +2,8 @@
 
 A Hubot script that search keywords from Yahoo movies.
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140906/20140906185250.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-yahoo-movies.git
